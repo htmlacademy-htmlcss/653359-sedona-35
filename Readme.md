@@ -1,7 +1,7 @@
 # Личный проект «Седона»
 
 * Студент: [Иван Зайцев](https://up.htmlacademy.ru/htmlcss/35/user/653359).
-* Наставник: `Неизвестно`.
+* Наставник: [Valentyn Diravka](https://htmlacademy.ru/profile/id1567679).
 
 ---
 
