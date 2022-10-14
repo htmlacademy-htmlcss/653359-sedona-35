@@ -1,0 +1,239 @@
+@font-face {
+  font-family: "PT sans";
+  font-style: normal;
+  font-weight: 400;
+  src: url(../fonts/ptsans-400.woff2) format("woff2");
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "PT sans";
+  font-style: normal;
+  font-weight: 700;
+  src: url(../fonts/ptsans-700.woff2) format("woff2");
+  font-display: swap;
+}
+
+body {
+  font-family: "PT sans", sans-serif;
+  font-size: 18px;
+  line-height: 21px;
+  color: black;
+}
+
+.visually-hidden {
+  display: none;
+}
+
+.page-header {
+  background-color: white;
+}
+
+.navigation-list a {
+  font-family: "PT sans", sans-serif;
+  font-weight: 700;
+  font-size: 20px;
+  line-height: 24px;
+  color: black;
+  text-decoration: none;
+  text-align: center;
+}
+
+.navigation-list .button {
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 20px;
+  text-transform: uppercase;
+  color: #FFFFFF;
+  background-color: black;
+}
+
+.hero-block {
+  background-image: url("../images/hero/index-background.jpg");
+  background-color: black;
+  color: white;
+  background-size: 100% auto;
+  background-repeat: no-repeat;
+}
+
+body h2 {
+  font-weight: 700;
+  font-size: 30px;
+  line-height: 36px;
+  text-align: center;
+  text-transform: uppercase;
+}
+
+body p {
+  font-weight: 400;
+  font-size: 22px;
+  line-height: 26px;
+  text-align: center;
+}
+
+.advantages-list h3 {
+  font-weight: 700;
+  font-size: 24px;
+  line-height: 28px;
+  text-align: center;
+  text-transform: uppercase;
+
+}
+
+.city {
+  background-color: black;
+  color: white;
+}
+
+.devil {
+  background-color: black;
+  color: white;
+}
+
+.button-catalog {
+  font-weight: 700;
+  font-size: 20px;
+  line-height: 36px;
+  text-align: center;
+  text-transform: uppercase;
+  color: #FFFFFF;
+  background-color: black;
+  text-decoration: none;
+}
+
+.newsletter {
+  background-image: url("../images/background-newsletter.jpg");
+  background-color: black;
+  color: white;
+  background-size: 100% auto;
+  background-repeat: no-repeat;
+}
+
+.newsletter-confirm {
+  font-size: 20px;
+  line-height: 36px;
+  text-align: center;
+  text-transform: uppercase;
+  color: #FFFFFF;
+  background: #82B3D3;
+}
+
+.footer-phone {
+  font-size: 40px;
+  line-height: 40px;
+  text-align: center;
+  text-transform: uppercase;
+  color: #000000;
+  text-decoration: none;
+}
+
+.filter {
+  background-image: url("../images/background-filter.jpg");
+  background-color: black;
+  color: white;
+  background-size: 100% auto;
+  background-repeat: no-repeat;
+}
+
+.catalog-filter {
+  font-weight: 700;
+  font-size: 60px;
+  line-height: 78px;
+}
+
+.breadcrumbs-item-link {
+  text-decoration: none;
+  font-size: 16px;
+  line-height: 21px;
+}
+
+.catalog-filter-title {
+  font-weight: 700;
+  font-size: 20px;
+  line-height: 24px;
+}
+
+.lux {
+  line-height: 23px;
+}
+
+.filter-button {
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 20px;
+  background-color: #82B3D3;
+  color: white;
+}
+
+.filter-button-rezet {
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 20px;
+  color: white;
+  background: none;
+  border: none;
+}
+
+.discribe-hotel h1 {
+  font-weight: 700;
+  font-size: 30px;
+  line-height: 36px;
+  text-transform: uppercase;
+}
+
+.hotel-card-name {
+  font-weight: 700;
+  font-size: 24px;
+  line-height: 28px;
+}
+
+.hotel-card-price {
+  font-weight: 400;
+}
+
+.hotel-card-link {
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 20px;
+  text-decoration: none;
+  color: white;
+  text-transform: uppercase;
+  background-color: #756157;
+}
+
+.button-card-no-choose {
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 20px;
+  text-decoration: none;
+  color: white;
+  text-transform: uppercase;
+  background-color: #82B3D3;
+  border: none;
+}
+
+.hotel-card-range {
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 20px;
+  text-transform: uppercase;
+}
+
+.pagination-link {
+  font-weight: 700;
+  font-size: 20px;
+  line-height: 36px;
+  text-decoration: none;
+  color: white;
+  background-color: #82B3D3;
+}
+
+.next-4 {
+  background-color: white;
+  color: black;
+}
+
+.pagination-current {
+  background-color: #F2F2F2;
+  color: BLACK;
+}
